@@ -1,4 +1,4 @@
-# Hi there, I'm Victor 👋
+# Hi there, I'm Victor👋
 
 I am a Frontend Developer with extensive experience in creating visually stunning and intuitive interfaces. My expertise spans across React, Astro, Vue, Angular and Svelte, with a particular focus on React.js. I have a strong passion for CSS animations and interactive design, often spending my free time as an illustrator and UI designer.
 
